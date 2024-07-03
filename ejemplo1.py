@@ -14,7 +14,7 @@ sumar(int(input("Ingresa el primer numero: ")),int(input("Ingresa el primer nume
 
 def multiplicar(n1,n2):
     print('El resultado de la multiplicacion entre n1 * n2 es de: ', n1 * n2)
-multiplicar(int(input("Ingresa el primer numero: ")),int(input("Ingresa el primer numero: ")))
+multiplicar(int(input("Ingresa el primer numero: ")),int(input("Ingresa el segundo numero: ")))
 
 
 def mensaje3():
