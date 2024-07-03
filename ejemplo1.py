@@ -3,6 +3,10 @@ def mensaje():
 
 mensaje()
 
+def mensaje2():
+    print("Volvi al pasado")
+
+mensaje2()
 def sumar(n1,n2):
     print('El resultado de la suma entre n1 + n2 es de: ', n1 + n2)
 
